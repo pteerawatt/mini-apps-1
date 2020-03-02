@@ -2,6 +2,10 @@
   color: blueviolet;
 }
 
+#reset {
+  margin-bottom: 20px;
+}
+
 #grid-container {
   display: inline-grid;
   grid-template-columns: repeat(3, 1fr);
